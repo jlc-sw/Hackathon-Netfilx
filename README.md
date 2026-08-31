@@ -1,5 +1,5 @@
 # Netflix Catalogue Analysis
-## *(Final hackathon project for the Data Analytics Skills Bootcamp at Cambridge Spark.)*
+### *(Final hackathon project for the Data Analytics Skills Bootcamp at Cambridge Spark.)*
 
 Exploratory analysis of 8,807 Netflix titles using Python, pandas, SciPy, Matplotlib and Plotly.
 

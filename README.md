@@ -11,7 +11,7 @@ Click the dashboard preview above to open the interactive Plotly report.
 
 ## Project Files
 
-- [View the Jupyter Notebook](Netflix-Catalogue-Analysis.ipynb)
+- [View the Full Analysis](Netflix-Catalogue-Analysis.ipynb)
 
 
 - [Open the Interactive Dashboard](https://jlc-sw.github.io/Hackathon-Netfilx/)
